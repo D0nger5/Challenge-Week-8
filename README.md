@@ -1,2 +1,6 @@
 # Challenge-Week-8
-Week Out Assignment for EdX Bootcamp
+Week Eight Assignment for EdX Bootcamp
+
+Weather Dashboard
+https://d0nger5.github.io/Challenge-Week-8/
+
